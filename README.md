@@ -1,17 +1,19 @@
 # server-deployment-practice 
 
-## 🎉 HEROKU LINK 🎉
-https://server-deployment-practice-1.herokuapp.com/
+*  HEROKU APP dev BRANSH LINK :
+https://dashboard.heroku.com/apps/bnan-server-deploy-dev
 
-## 🎉 GitHub Action 🎉
-https://github.com/engTasneemmaq/server-deployment-practice/actions
+ HEROKU APP main BRANSH LINK :
+https://dashboard.heroku.com/apps/bnan-server-deploy-prod
+
+*  GitHub Action :
+https://github.com/ebnanzhran/server-deployment-practice/actions
+
+* Pull Request :
+https://github.com/ebnanzhran/server-deployment-practice/pull/1
 
 
-## 🎉 Pull Request 🎉
-https://github.com/engTasneemmaq/server-deployment-practice/pulls
-
-
-## 🖇 🖊 Notes the Demo: ⏭ ⏭ <br>
+* Notes the Demo: <br>
 1.Take step by step to create the Repo.<br>
 2.Create new branch >> git checkout -b "dev"<br>
 3.npm init -y<br>
@@ -23,6 +25,7 @@ https://github.com/engTasneemmaq/server-deployment-practice/pulls
 9.Create Test<br>
 10.to check the router is ok >> nodemon || node index.js.<br>
 11.To test the server >> npm run test<br>
-12.A C P <br>
-13.Github action it should be passed.<br>
-12.Create the HEROKU app and deploy it with GitHub.<br>
+12.Udate my readmi file<br>
+13.A C P <br>
+14.Github action it should be passed.<br>
+15.Create the HEROKU app and deploy it with GitHub.<br>
