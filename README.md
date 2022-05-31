@@ -1,8 +1,7 @@
 # server-deployment-practice 
 
 *  HEROKU APP dev BRANSH LINK :
-https://dashboard.heroku.com/apps/bnan-server-deploy-dev
-
+[](https://bnan-server-deploy-dev.herokuapp.com/)
  HEROKU APP main BRANSH LINK :
 https://dashboard.heroku.com/apps/bnan-server-deploy-prod
 
