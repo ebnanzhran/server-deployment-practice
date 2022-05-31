@@ -1,6 +1,7 @@
 # server-deployment-practice 
 
 *  HEROKU APP dev BRANSH LINK :
+
 [click](https://bnan-server-deploy-dev.herokuapp.com/)
 
  HEROKU APP main BRANSH LINK :
@@ -11,6 +12,19 @@ https://github.com/ebnanzhran/server-deployment-practice/actions
 
 * Pull Request :
 https://github.com/ebnanzhran/server-deployment-practice/pull/1
+
+
+
+[](https://bnan-server-deploy-dev.herokuapp.com/)
+ HEROKU APP main BRANSH LINK :
+https://dashboard.heroku.com/apps/bnan-server-deploy-prod
+
+*  GitHub Action :
+https://github.com/ebnanzhran/server-deployment-practice/actions
+
+* Pull Request :
+https://github.com/ebnanzhran/server-deployment-practice/pull/1
+
 
 
 * Notes the Demo: <br>
